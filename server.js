@@ -6,9 +6,6 @@ const client = new Discord.Client();
  * node server.js
  * "ctrl+C"
  * npx nodemon server.js
- *
- * to force stop of the bot edit ur token so i gives u an error
- * then put it correctly again and it will work as normal 
  */
 
 client.on("ready", () => {
