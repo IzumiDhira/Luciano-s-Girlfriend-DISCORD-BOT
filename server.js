@@ -44,4 +44,4 @@ client.on("ready", () => {
      message.reply(message.author.displayAvatarURL());
  });
 
- client.login("Nzk3Mzc1OTAxNDUyNDY4MjM2.X_lkLQ.mIuYpW2UuLyKX_rZplDaNtnyJYw");
+ client.login("use ur token :/");
